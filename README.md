@@ -2,7 +2,7 @@
 Tenho formação em Letras e sou amante da escrita.<br>
 Já atuei como ghost/copywriter de artigos sobre cotidiano, educação e saúde, para sites renomados.<br>
 Meu primeiro contato como Dev foi através de um programa de formação Full Stack da Gama Academy, em agosto de 2021.<br>
-E continuo a saga de aprednizado.<br>
+E continuo a saga de aprendizado.<br>
 Pois, além de me comunicar com pessoas, estou determinada a me comunicar - também - com as máquinas.
 
 <center>
